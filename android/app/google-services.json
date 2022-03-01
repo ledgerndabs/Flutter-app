@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390129807998",
+    "project_id": "fir-806f2",
+    "storage_bucket": "fir-806f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390129807998:android:5d152cd8439f7bc5eb9e2f",
+        "android_client_info": {
+          "package_name": "com.lethu.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390129807998-mce1v6jsj4pbpihcnu43tfqnsck3f1ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7JmUisFuvLIUZvmsoRVRme15BPpNixM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390129807998-mce1v6jsj4pbpihcnu43tfqnsck3f1ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
